@@ -4,7 +4,6 @@
   "url": "https://drive.google.com/file/d/13xPWfzzVOWLUaVFw44tMi_4tBmSHUW6W/view?usp=sharing",
   "discord": "https://discord.gg/MpM5bJAP",
   "users": {
-    "e0:0a:f6:a3:ab:e0": "99990977|99",
     "4c:ed:fb:60:26:61": "20240131|2",
     "4c:ed:fb:92:95:b7": "20240210|1",
     "8c:88:2b:00:54:7b": "20240202|1",
