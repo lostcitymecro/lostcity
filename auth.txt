@@ -1,7 +1,7 @@
 {
   "version": 1,
   "message": "[패치내역]\n- 인증 방식 변경 \n- 성배 체크 방식 변경\n\n\n[필수사항]\n- 매크로 사용 중에는\n다른 행위를 하지 말아주세요.\n\n\n매크로 개발자가 변경되었습니다.\n새로운 문의를 통해 연장 및 신규 발급을 도와드리겠습니다.",
-  "url": "https://drive.google.com/file/d/1MTkfv57AE1sT0yEIeLXevnfbssIwgwDP/view?usp=sharing",
+  "url": "https://drive.google.com/file/d/13xPWfzzVOWLUaVFw44tMi_4tBmSHUW6W/view?usp=sharing",
   "discord": "https://discord.gg/MpM5bJAP",
   "users": {
     "e0:0a:f6:a3:ab:e0": "99990977|99",
