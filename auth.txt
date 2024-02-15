@@ -4,7 +4,6 @@
   "url": "https://drive.google.com/file/d/1LLzGBSr5rovTMY7ZXh6bY1U6GQVKIqwk/view?usp=sharing",
   "discord": "https://discord.com/invite/HP75mhwWrU",
   "users": {
-    "4c:ed:fb:92:95:b7": "20240210|1",
     "d4:5d:64:82:8e:30": "20240331|2",
     "2c:f0:5d:3d:7e:14": "20240222|5",
     "ec:d6:8a:f6:39:f4": "20240415|3",
