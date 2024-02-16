@@ -1,7 +1,7 @@
 {
-  "version": 10,
-  "message": "[패치내역]\n- 경던 4, 5층 추가(~2월 28일)\n\n\n[필수사항]\n※매크로 사용 중 화면 조작 금지\n\n\n※신규 버전 설치 후 사용하시면 됩니다.※",
-  "url": "https://drive.google.com/file/d/1LLzGBSr5rovTMY7ZXh6bY1U6GQVKIqwk/view?usp=sharing",
+  "version": 11,
+  "message": "[패치내역]\n- 경던 4, 5층 추가(~2월 28일)\n- HP 체크 구간 추가\n\n\n[필수사항]\n※매크로 사용 중 화면 조작 금지\n\n\n※신규 버전 설치 후 사용하시면 됩니다.※",
+  "url": "https://drive.google.com/file/d/1lx5zE_HOY9zQt-GTpeZiWFwD88I9Z0Pc/view?usp=sharing",
   "discord": "https://discord.com/invite/HP75mhwWrU",
   "users": {
     "d4:5d:64:82:8e:30": "20240331|2",
