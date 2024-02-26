@@ -4,7 +4,6 @@
   "url": "https://drive.google.com/file/d/1EpQX0VW8sc2VrSY3IeZ38dznxBj1RwG8/view?usp=sharing",
   "discord": "https://discord.com/invite/HP75mhwWrU",
   "users": {
-    "d4:5d:64:82:8e:30": "20240331|2",
     "2c:f0:5d:3d:7e:14": "20240501|2",
     "ec:d6:8a:f6:39:f4": "20240415|3",
     "30:9c:23:88:a7:38": "20240421|1",
@@ -26,6 +25,7 @@
     "2K5229QCDBXC": "20240311|1",
     "0025_38B3_31B8_79C3.": "20240323|1",
     "WK207579": "20240501|2",
+    "20466G462605": "20240401|2",
     "S7HTNJ0W558264N": "20240310|2",
     "NA7RNN3N": "20240310|2",
     "MDC1NSDV": "20240310|3",
