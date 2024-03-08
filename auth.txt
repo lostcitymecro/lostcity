@@ -1,7 +1,7 @@
 {
-  "version": 18,
-  "message": "[패치내역]\n- '서치-귀환' 사용 시 '유저 인증' 도입으로 삭제\n- '서치-귀환' 기능은 '서치-강종'으로 변경\n\n\n[필수사항]\n※매크로 사용 중 화면 조작 금지\n※ 강제 종료해도 죽을 수 있음\n※아래 사진과 같이 아이템, 스킬배치\n\n※신규 버전 설치 후 정상 사용 가능※ ",
-  "url": "https://drive.google.com/file/d/1si8wtRejRPEhpjFOiEaRQhZN_at8A_VT/view?usp=sharing",
+  "version": 19,
+  "message": "[패치내역]\n- 메인화면 인식률 변경\n\n\n[필수사항]\n※매크로 사용 중 화면 조작 금지\n※ 강제 종료해도 죽을 수 있음\n※아래 사진과 같이 아이템, 스킬배치\n\n※신규 버전 설치 후 정상 사용 가능※ ",
+  "url": "https://drive.google.com/file/d/1J1vgdpRoapiVBKb3sS7CUaLb4JPJozAb/view?usp=sharing",
   "discord": "https://discord.com/invite/HP75mhwWrU",
   "users": {
     "2c:f0:5d:3d:7e:14": "20240501|2",
